@@ -7,6 +7,9 @@ My tools list for Vue.js development
 #### Form Builder
 * [vue-json-schema](https://github.com/demsking/vue-json-schema) `npm i vue-json-schema`
 
+#### Input Mask
+* [Vue Input Mask](https://github.com/text-mask/text-mask/tree/master/vue%23readme) `npm i vue-text-mask`
+
 #### Image Loader
 * [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) `npm i vue-progressive-image`
 
