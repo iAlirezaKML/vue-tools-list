@@ -3,6 +3,7 @@ My tools list for Vue.js development
 
 #### Components
 * [Element-UI](http://element.eleme.io/#/en-US/component) `npm i element-ui -S`
+* [Vue Content Loading](https://lucasleandro1204.github.io/vue-content-loading/) `npm i vue-content-loading -S`
 
 #### Form Builder
 * [vue-json-schema](https://github.com/demsking/vue-json-schema) `npm i vue-json-schema`
