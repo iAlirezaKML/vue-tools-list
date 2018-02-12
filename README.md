@@ -29,5 +29,6 @@ My tools list for Vue.js development
 #### Route
 * [vue-breadcrumbs](https://github.com/samturrell/vue-breadcrumbs) `npm i vue-breadcrumbs`
 
-#### Date
+#### Format
 * [moment-jalaali](https://github.com/jalaali/moment-jalaali) `npm i moment-jalaali`
+* [persianjs](https://github.com/usablica/persian.js) `npm i persianjs`
